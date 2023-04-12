@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "a1fc543b-b060-442f-a923-df88c49cec86",
+    "colId": "history",
+    "containerId": "",
+    "name": "{{APP_URL}}",
+    "url": "{{APP_URL}}",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-12T12:24:05.135Z",
+    "modified": "2023-04-12T12:24:05.135Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "e82ac5df-0461-4ab2-9b4f-61ac0d39deff",
+    "colId": "history",
+    "containerId": "",
+    "name": "{{APP_URL}}/hello",
+    "url": "{{APP_URL}}/hello",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-12T12:24:27.001Z",
+    "modified": "2023-04-12T12:24:27.001Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
